@@ -1,0 +1,1 @@
+# lift is a measure of association between x and y # High Lift indicates higher association.
